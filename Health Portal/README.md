@@ -2,7 +2,7 @@
 
 A Python tool that turns a raw Samsung Health data export into a clean, interactive HTML dashboard covering steps, sleep, heart rate, exercise, nutrition, and weight.
 
-**[View the live demo](https://riskbreaker23.github.io/Projects/Health%20Portal/samsung_health_dashboard.html)** (built from generated sample data, not real health data)
+**[View the live demo](https://riskbreaker23.github.io/Health-Portal/Health%20Portal/samsung_health_dashboard.html)** (built from generated sample data, not real health data)
 
 ![Dashboard preview](https://github.com/riskbreaker23/Projects/blob/main/Health%20Portal/dashboard.png)
 
