@@ -1,0 +1,7 @@
+# Real Samsung Health exports (keep private)
+samsunghealth_*/
+com.samsung.shealth*/
+
+# Python
+__pycache__/
+*.pyc
